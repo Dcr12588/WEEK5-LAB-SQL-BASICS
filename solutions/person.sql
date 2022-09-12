@@ -38,4 +38,4 @@ SELECT * FROM person WHERE favorite_color = 'orange' OR favorite_color = 'green'
 SELECT * FROM person WHERE favorite_color IN ( 'orange', 'green', 'blue' );
 
 /* #14 */
-SELECT * FROM person WHERE favorite_color IN ( 'yellow', 'purple' )
+   SELECT * FROM person WHERE favorite_color IN ( 'yellow', 'purple' )
